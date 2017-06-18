@@ -21,8 +21,8 @@
    * `JAVA` : 상속과 다형성의 이해 사용 가능 언어 중 가장 많이 사용함
    * `Android` : 기본 SDK, 4가지 컴포넌트에 대한 이해 
    * `Python` :ㅓㅣㅓㅣㅓ
-   * `javascript`:
-   * 
+   * `javascript`:허호ㅓㅎ
+   * ``
 * 기술
    * `MySQL` : 쿼리문 작성 및 어쩌구
    * `JSP` : JDBC를 활용하여 웹 구축가능
